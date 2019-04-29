@@ -12,7 +12,9 @@ The source code of CRSRCF (Content-Related Spatial Regularization for Visual Obj
 
 ## Abstract
 
-In this paper, we show that a content-related spatial regularization (CRSR) can help to further boost both the tracking accuracy and robustness. 
-Specifically, we present to consider both frame saliency and spatial preference to online generate the CRSR weight map and propose a simple yet effective saliency-embedded CF objective function to simultaneously optimize the filters and CRSR weight map in spatialtemporal domain. 
+In this paper, we show that a content-related spatial regularization (CRSR) can help to further boost both the tracking accuracy and robustness.  
+
+Specifically, we present to consider both frame saliency and spatial preference to online generate the CRSR weight map and propose a simple yet effective saliency-embedded CF objective function to simultaneously optimize the filters and CRSR weight map in spatialtemporal domain.  
+
 Extensive experiments validate that our content-related SR outperforms the classical SR, with higher tracking accuracy and almost two times faster speed.
 
